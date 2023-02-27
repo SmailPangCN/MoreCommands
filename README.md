@@ -1,4 +1,4 @@
-#### MoreCommands
+# MoreCommands
 
 ## 安装
 1. 下载Fabric加载器 [Fabric installer](https://fabricmc.net/use).
