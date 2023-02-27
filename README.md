@@ -6,7 +6,7 @@
    - 然后使用你的Minecraft启动器启动一次游戏
 1. 下载 [Fabric API](https://minecraft.curseforge.com/projects/fabric)
    将它放进 (`.minecraft/mods`).
-1. 下载MoreCommands [releases page](https://github.com/Earthcomputer/clientcommands/releases)
+1. 下载MoreCommands [releases page](https://github.com/SmailPang_CN/MoreCommands/releases)
    并将其放进 (`.minecraft/mods`).
 
 ## 关于
@@ -15,6 +15,6 @@
 
 ## 参与测试
 如果你想要参与测试可以在Afdian上赞助Small Fat Server即可获取MoreCommands的测试版
-afdian地址：https://afdian.net/a/small-fat-server
+afdian地址： [爱发电](https://afdian.net/a/small-fat-server)
 
-如果你在使用中出现了问题，请在https://github.com/SmailPangCN/MoreCommands/issues 提交
+如果你在使用中出现了问题，请在 [提交反馈](https://github.com/SmailPangCN/MoreCommands/issues) 提交
