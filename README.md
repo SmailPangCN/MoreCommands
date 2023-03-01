@@ -6,7 +6,7 @@
    - 然后使用你的Minecraft启动器启动一次游戏
 1. 下载 [Fabric API](https://minecraft.curseforge.com/projects/fabric)
    将它放进 (`.minecraft/mods`).
-1. 下载MoreCommands [releases page](https://github.com/SmailPangCN/MoreCommands/releases)
+1. 下载 [MoreCommands](https://github.com/SmailPangCN/MoreCommands/releases)
    并将其放进 (`.minecraft/mods`).
 
 ## 关于
