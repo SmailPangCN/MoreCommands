@@ -10,8 +10,29 @@
    并将其放进 (`.minecraft/mods`).
 
 ## 关于
-本模组并非开源模组，只是在这里开放下载
+本模组是开源模组，在这里开放下载
 本模组给游戏中添加了一些实用的命令
+
+## 编辑
+1. 克隆存储库
+   ```
+   git clone https://github.com/SmailPangCN/MoreCommands
+   cd MoreCommands
+   ```
+1. 生成Minecraft代码
+   ```
+   ./gradlew genSources
+   ```
+   - 注意: 如果你使用的Windows，那么请使用 `gradlew` 而不是 `./gradlew`.
+1. 将项目导入到IDE中
+   1. 如果使用IntelliJ（首选选项），则可以简单地将项目导入为Gradle项目。
+   1. 如果您使用Eclipse，则需要`/gradlew-eclipse`，然后将项目作为eclipse项目导入。
+1. 编辑代码
+1. 在IDE中测试之后，构建一个JAR来测试它是否也在IDE之外工作
+   ```
+   ./gradlew build
+   ```
+   JAR可以在“build/libs”目录中找到
 
 ## 参与测试
 如果你想要参与测试可以在Afdian上赞助Small Fat Server即可获取MoreCommands的测试版
